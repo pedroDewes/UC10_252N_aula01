@@ -1,0 +1,17 @@
+commit 934d950a0220220d94f7e1276bbfec15fdb1d61f
+Author: Pedro Dewes <pedrolimadewes@gmail.com>
+Date:   Tue Aug 25 21:38:15 2026 -0300
+
+    Alterado Index.html e criados arquivos README e estilo.css
+
+commit 0aad29d5046e8cbf6507cb3f26dcf8af9e58e34f
+Author: pedroDewes <pedrolimadewes@gmail.com>
+Date:   Tue Aug 25 20:22:14 2026 -0300
+
+    Alterado arquivo index.html
+
+commit f9876a7014df503ecf3942a809f1ddb09fbd27fc
+Author: pedroDewes <pedrolimadewes@gmail.com>
+Date:   Tue Aug 25 20:15:04 2026 -0300
+
+    Criando primeiro arquivo de projeto
